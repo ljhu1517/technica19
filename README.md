@@ -8,9 +8,9 @@ At Visionist we embrace some of our nation’s most complex challenges. Since ou
 
 This challenge is geared towards young people who haven't had much experience with tech before. We've created a boilerplate application to help you get started on creating a web page using React JS. Your web page can focus on whatever content matter you're interested in. At Visionist, a well designed user interface and user experience is of high value. We're looking for what new tech you were able to use to create a visually appealing and easy to use page. You are not limited to our starter app. You can build from scratch or use any technology you prefer.
 
-The starter app is located in the technica-starter-app folder in this repo. If you are unable to download the project, we have USB drives to copy data directly to you.
+The starter app is located in the technica-starter-app folder in this repo. We've also created a guide for getting setting up our starter app [here](https://docs.google.com/document/d/1oVsIbGW8uS4YcKlBgR00ltdb8tw5aX4VbE4h_mkZGP8/edit?usp=sharing). If you are unable to download the project or access the set up guide, we have USB drives to copy these resources directly to you. If anything is unclear, we're happy to help you get started.
 
-If you're not sure what to get started on, these are a few topics we thought might be interesting.
+If you're not sure what topic get started on, these are a few that we thought might be interesting.
 - How to stay safe online
 - 'About me' personal page
 
