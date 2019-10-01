@@ -12,7 +12,7 @@ Male labor force historical data and projections in Maryland from years 1970-204
 | 1990          | Number from 1990 census                         |
 | 2000          | Number from 2000 census                         |
 | 2010          | Number from 2010 census                         |
-| 2011_2015_acs | Number from 2008-2012 American Community Survey |
+| 2011_2015_acs | Number from 2011-2015 American Community Survey |
 | 2015p         | Number projected for 2015                       |
 | 2020p         | Number projected for 2020 census                |
 | 2025p         | Number projected for 2025                       |
