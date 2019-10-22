@@ -13,6 +13,9 @@ The starter app is located in the technica-starter-app folder in this repo. We'v
 If you're not sure what topic get started on, these are a few that we thought might be interesting.
 - How to stay safe online
 - 'About me' personal page
+- Fashion/makeup page/app/game
+- Journaling app/page
+- Expenses tracker or info page
 
 ### 2. Best Combination of Data Sets
 
