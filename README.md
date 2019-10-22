@@ -22,4 +22,4 @@ The data sets are located in the Datasets folder in this repo. If you are unable
 
 ## Prizes
 
-??? more like sur-prizes
+Each team member for each winning project will receive a $50 Amazon gift card. 
