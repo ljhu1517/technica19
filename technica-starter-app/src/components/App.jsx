@@ -25,7 +25,7 @@ class App extends React.Component {
         <div className="App">
           <div className="header">
             {/* This displays the image we imported */}
-            <img src={visionistLogo} />
+            <img src={testLogo} />
           </div>
 
           <div className="content-area">
