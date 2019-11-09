@@ -20,6 +20,7 @@ class App extends React.Component {
   // The content consists of HTML and other components.
   // You can learn more about HTML here https://www.w3schools.com/html/html_intro.asp
   render() {
+    let x = 10;
     return (
       <>
         {/* This is a comment inside the HTML content */}
@@ -40,8 +41,12 @@ class App extends React.Component {
             </a>
 
             {/* This is the component we imported from another file to use */}
-            <Panel>This is content inside the first panel!</Panel>
-            <Panel>This is content inside the second panel!</Panel>
+            <Panel> Balloon Game </Panel>
+            <Panel> results of balloon game</Panel>
+
+            <Panel> visualization </Panel>
+
+
 
             <ChartExample />
           </div>

@@ -15,8 +15,10 @@
 */
 .App {
   /* This rule targets any element that has a className App. The dot in front indicates className */
-  height: 100vh;
-  background-image: linear-gradient(to right, #9edae2, #ed7bab);
+  height: 200vh;
+  background-image: url('../images/bg.png');
+  
+  /*linear-gradient(to right, #7CEA9C, #BFDBF7);*/
   /* Color is applied to font. Color is defined with hex values.
   You can generate hex colors with online tools https://htmlcolorcodes.com/color-picker/ */
   color: #fff;

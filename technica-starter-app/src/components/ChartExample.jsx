@@ -11,13 +11,13 @@ class ChartExample extends React.Component {
           width={400}
           height={400}
           style={{ labels: { fill: "white" } }}
-          colorScale={["#ed7bab", "#b2a0c3", "#9edae2"]}
+          colorScale={["#7CEA9C", "#C5D1EB", "#36558F"]}
           innerRadius={80}
-          labelRadius={120}
+          labelRadius={100}
           data={[
-            { x: "Pink", y: 25 },
-            { x: "Purple", y: 40 },
-            { x: "Blue", y: 35 }
+            { x: "Risk", y: 25 },
+            { x: "Trait 2", y: 40 },
+            { x: "Trait 3", y: 35 }
           ]}
         />
       </svg>
