@@ -1,0 +1,52 @@
+/* This is a stylesheet. It's extension is .css */
+/* This is a comment for a .css file */
+
+/* 
+  This is a style rule.
+
+  The first part of the style rule targets some part of your HTML.
+  You can target by className, element type, or id.
+
+  The second part of the style rule described the styles.
+  These change shapes, colors, font, animations and more.
+
+  The easiest way to learn is to just google what you're interested in
+  and try imitating what you like.
+*/
+.App {
+  /* This rule targets any element that has a className App. The dot in front indicates className */
+  height: 100vh;
+  background-image: linear-gradient(to right, #9edae2, #ed7bab);
+  /* Color is applied to font. Color is defined with hex values.
+  You can generate hex colors with online tools https://htmlcolorcodes.com/color-picker/ */
+  color: #fff;
+}
+
+.header {
+  /* This rule targets any element that has a className header */
+  text-align: center;
+  padding: 10px;
+}
+
+.content-area {
+  margin: 10px 60px;
+  padding: 10px;
+  border-radius: 3px;
+  background-color: #fff;
+  text-align: center;
+}
+
+p {
+  /* This rule targets any <p> element */
+  color: #000;
+}
+
+/* This style rule targets a link */
+a {
+  color: #b2a0c3;
+}
+
+/* This style rule targets a link while the mouse hovers over it */
+a:hover {
+  color: #8bc34a;
+}
