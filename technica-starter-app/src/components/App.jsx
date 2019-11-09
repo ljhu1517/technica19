@@ -9,6 +9,7 @@ import Panel from "./Panel"; // This is an import for a component we've created.
 import ChartExample from "./ChartExample";
 
 import visionistLogo from "../images/visionist-logo.png"; // This imports an image in our project
+import testLogo from "../images/testLogo.png";
 
 import "./App.css"; // This imports a stylesheet.
 
