@@ -32,7 +32,7 @@ class App extends React.Component {
 
           <div className="content-area">
             <p>
-              This is a paragraph element. You can use this for blocks of text
+              FinLit takes your responses to a series of games and analyzes your financial personality. 
             </p>
 
             {/* The href points at the URL clicking the link takes you to
