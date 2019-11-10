@@ -45,11 +45,6 @@ class App extends React.Component {
             {/* This is the component we imported from another file to use */}
             <GamePanel>  </GamePanel>
 
-<!--             <Panel> results of balloon game</Panel> -->
-
-<!--             <Panel> visualization </Panel> -->
-
-
             <Chart/>
             <ChartExample />
           </div>
