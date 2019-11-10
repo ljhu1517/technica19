@@ -100,10 +100,10 @@ class Game extends React.Component {
               )
             }
           />
-          <p>current blows: {this.state.currentBlow}</p>
+          <p>money this round: {this.state.currentBlow}</p>
           {/* <p>max blows: {this.state.maxBlows}</p> */}
           <p>keep clicking? {this.state.canIKeepClicking}</p>
-          <p>money dollars: {this.state.money}</p>
+          <p>money earned: {this.state.money}</p>
           <p> {this.state.moneyStatus}</p>
           <p> {this.state.turnsStatus}</p>
           <p> {this.state.financialProfile} </p>
