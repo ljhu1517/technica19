@@ -9,7 +9,7 @@ import Panel from "./Panel"; // This is an import for a component we've created.
 import ChartExample from "./ChartExample";
 
 import visionistLogo from "../images/visionist-logo.png"; // This imports an image in our project
-import testLogo from "../images/testLogo.png";
+import testLogo from "../images/logo.png";
 
 import "./App.css"; // This imports a stylesheet.
 
@@ -35,10 +35,10 @@ class App extends React.Component {
               This is a paragraph element. You can use this for blocks of text
             </p>
 
-            {/* The href points at the URL clicking the link takes you to */}
+            {/* The href points at the URL clicking the link takes you to
             <a href="https://www.visionistinc.com/">
               This is a link to Visionist's website.
-            </a>
+            </a> */}
 
             {/* This is the component we imported from another file to use */}
             <Panel> Balloon Game </Panel>
