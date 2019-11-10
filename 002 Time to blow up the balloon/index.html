@@ -1,0 +1,42 @@
+<html>
+	<head>
+		<title>CoderDojo DCU - Balloon Game</title>
+		<link rel="stylesheet" type="text/css"
+			href="style.css"/>
+		<script type="text/javascript" src="balloon.js"></script>
+	</head>
+
+	<body onload="loadGame()">
+		<h1>Ballon 2.0 </h1>
+
+		<div id="balloon">
+			<img src="https://cdn10.bigcommerce.com/s-o0d6ce9f7h/products/5987/images/5810/29-hot-pink__35902.1502547464.1280.1280.png?c=2" onclick="blow()"/>
+		</div>
+
+		<div id="boom">
+			<img src="https://pixy.org/download/504289/" style="width:500px;height:600px;"/>
+		</div>
+
+		<div id="blowCounter">
+			<span>This $</span>
+			<br/>
+			<h3 id="thisCount">0</h3>
+		</div>
+
+		<div id="moneyCounter">
+			<span>Total $</span>
+			<br/>
+			<h3 id="totalCount">0</h3>
+		</div>
+
+		<div id="timer">
+			<span>Seconds remaining</span>
+			<br/>
+			<h3 id="currTime">60</h3>
+		</div>
+
+		<button id="tie" onclick="tieBalloon()">Get $</button>
+
+	</body>
+
+</html>
