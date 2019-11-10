@@ -59,7 +59,7 @@ class Game extends React.Component {
 
   handleFinalDisplay(finalMoney) {
     this.setState({
-        moneyStatus: `Your made $${this.state.money}`,
+        moneyStatus: `You made $${this.state.money}`,
         turnsStatus: `in ${this.state.numTurns} turn(s)`
     })
 
