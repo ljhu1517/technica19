@@ -7,6 +7,7 @@
 import React from "react"; // This is an import for React. Learn more here https://reactjs.org/
 import Panel from "./Panel"; // This is an import for a component we've created.
 import ChartExample from "./ChartExample";
+import Chart from "./Chart"
 
 import visionistLogo from "../images/visionist-logo.png"; // This imports an image in our project
 import testLogo from "../images/logo.png";
@@ -41,13 +42,14 @@ class App extends React.Component {
             </a> */}
 
             {/* This is the component we imported from another file to use */}
-            <Panel> Balloon Game </Panel>
+            <GamePanel>  </GamePanel>
+
             <Panel> results of balloon game</Panel>
 
             <Panel> visualization </Panel>
 
 
-
+            <Chart/>
             <ChartExample />
           </div>
         </div>
